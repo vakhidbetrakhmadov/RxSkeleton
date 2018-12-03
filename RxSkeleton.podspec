@@ -138,5 +138,5 @@ spec.swift_version = '4.2'
 spec.dependency 'RxSwift'
 spec.dependency 'RxCocoa'
 spec.dependency 'RxDataSources'
-spec.dependency 'SkeletonView'
+spec.dependency 'SkeletonView', :git => 'https://github.com/Juanpe/SkeletonView', :commit => 'b74592e6be988ddb921e8990ba5eb9cdbdc31fdd'
 end
